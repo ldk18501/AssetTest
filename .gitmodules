@@ -1,0 +1,3 @@
+[submodule "UnityProject/AssetTest/Assets/Qarth"]
+	path = UnityProject/AssetTest/Assets/Qarth
+	url = git@bitbucket.org:webeye-dev/qarth.git
