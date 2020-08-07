@@ -13,14 +13,4 @@ MonoBehaviour:
   m_Name: AddressableImportSettings
   m_EditorClassIdentifier: 
   allowGroupCreation: 1
-  rules:
-  - path: 
-    matchType: 0
-    groupName: 
-    LabelMode: 1
-    labelRefs:
-    - m_LabelString: default
-    groupTemplate: {fileID: 0}
-    groupTemplateApplicationMode: 0
-    simplified: 0
-    addressReplacement: 
+  rules: []
